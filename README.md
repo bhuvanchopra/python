@@ -1,4 +1,5 @@
-'''
+Docstring for python file "ps3_hangman.py":
+
 This python file is a programme based on the word guessing game called 'Hangman'.
 It is a game of two or more players in which one player thinks of a word, phrase 
 or sentence and the other tries to guess it by suggesting letters or numbers, 
@@ -11,3 +12,38 @@ beforehand.
 
 If the player guesses correctly,he/she wins. If not, then at the end of the programme,
 when no more guesses are available with the player, the computer reveals the word.
+
+
+
+Docstring for python file "is_list_permutation.py":
+
+This python file contains a programme that implements a function that takes in two lists
+and calculates whether they are permutations of each other. The lists can contain both 
+integers and strings. A permutation is defined as follows:
+
+  1. The lists have the same number of elements.
+  2. List elements appear the same number of times in both lists.
+  
+If the lists are not permutations of each other, the function returns False. 
+If they are permutations of each other, the function returns a tuple consisting of the 
+following elements:
+
+  1. The element occuring the most times
+  2. How many times that element occurs
+  3. The type of the element that occurs the most times
+  
+If both lists are empty return the tuple (None, None, None). If more than one element occurs
+the most number of times, you can return any of them.
+
+
+
+Docstring for python file "triangular.py":
+
+This python file contains a programme that takes an integer as an input and returns True
+or False based on whether the given number is triangular or not.
+A triangular number is a number obtained by the continued summation of integers starting 
+from 1. For example, 1, 1+2, 1+2+3, 1+2+3+4, etc., corresponding to 1, 3, 6, 10, etc., 
+are triangular numbers.
+
+
+
