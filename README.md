@@ -37,6 +37,16 @@ the most number of times, you can return any of them.
 
 
 
+Docstring for python file "dict_invert.py":
+
+This python file contains a programme of a function called dict_invert which takes in a 
+dictionary with immutable values and returns the inverse of the dictionary. The inverse of 
+a dictionary d is another dictionary whose keys are the unique dictionary values in d. The 
+value for a key in the inverse dictionary is a sorted list (increasing order) of all keys 
+in d that have the same value in d.
+
+
+
 Docstring for python file "triangular.py":
 
 This python file contains a programme that takes an integer as an input and returns True
