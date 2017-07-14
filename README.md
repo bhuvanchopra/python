@@ -57,3 +57,9 @@ are triangular numbers.
 
 
 
+Docstring for python file "general_poly.py":
+
+This python file contains a programme that takes input as a list,L (a list of numbers: 
+[n0, n1, n2, ... nk]) and return a function which when applied to x, returns the value
+n0 * x^k + n1 * x^(k-1) + ... nk * x^0.
+For example, general_poly([1, 2, 3, 4])(10) should evaluate to 1234.
