@@ -47,6 +47,16 @@ in d that have the same value in d.
 
 
 
+Docstring for python file "largest_odd_times.py":
+
+This python file contains a programme that takes a non-empty list of integers and returns the 
+largest element of the list that occurs an odd number of times in the list. If no such element 
+exists, then it returns None.
+For example, if the input list is [2,2,4,4], then the function returns None. If the input list
+is [3,9,5,3,5,3], then the function returns 9.
+
+
+
 Docstring for python file "triangular.py":
 
 This python file contains a programme that takes an integer as an input and returns True
